@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 
 # Load the saved pipeline and label encoder
-pipeline = joblib.load('voting_pipeline_scaled_before_smote.pkl')
+pipeline = joblib.load('vertebral_voting_hard_svm-rf-logreg_smote_v1.pkl')
 label_encoder = joblib.load('label_encoder.pkl')
 
 st.set_page_config(page_title="Vertebral Classifier", page_icon="🦴", layout="centered")
