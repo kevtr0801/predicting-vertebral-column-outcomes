@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+imblearn
+joblib
+pandas
+ucimlrepo
