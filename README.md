@@ -1,5 +1,3 @@
-# Predicting Vertebral Column outcomes
-
 # 🦴 Vertebral Column Condition Classification
 
 This project explores various machine learning techniques to classify patients' spinal conditions based on six biomechanical measurements. The dataset is sourced from the UCI Machine Learning Repository and includes three diagnostic categories:
